@@ -30,6 +30,6 @@
 </template>
 
 <style lang="scss" scoped>
+@use "assets/scss/partials/reset.scss" as *;
 @use "assets/scss/main.scss" as *;
-@import "assets/scss/partials/reset.scss"
 </style>
