@@ -29,7 +29,7 @@
     <MyAppFooter />
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
 @use "assets/scss/partials/reset.scss" as *;
 @use "assets/scss/main.scss" as *;
 </style>
